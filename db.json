@@ -1,0 +1,28 @@
+{
+  "animalzinhos": [
+    {
+      "id": 1,
+      "name": "Dhandara",
+      "type": "Gatinha",
+      "age": 3
+    },
+    {
+      "id": 2,
+      "name": "Akira",
+      "type": "Gatinho",
+      "age": 2
+    },
+    {
+      "id": 3,
+      "name": "Shift",
+      "type": "Gatinho",
+      "age": 2
+    },
+    {
+      "id": 4,
+      "name": "Menininha",
+      "type": "Gatinha",
+      "age": 1
+    }
+  ]
+}
